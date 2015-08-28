@@ -1,0 +1,37 @@
+{
+  "name": "chromocode",
+  "version": "0.0.0",
+  "description": "",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danleavitt0/chromocode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danleavitt0/chromocode/issues"
+  },
+  "homepage": "https://github.com/danleavitt0/chromocode#readme",
+  "dependencies": {
+    "babelify": "^6.2.0",
+    "compression": "^1.5.2",
+    "es6-promise": "^3.0.2",
+    "express": "^4.13.3",
+    "express-react-views": "^0.8.2",
+    "http": "0.0.0",
+    "lodash": "^3.10.1",
+    "material-ui": "^0.11.0",
+    "react": "^0.13.3",
+    "react-router": "^0.13.3",
+    "react-tap-event-plugin": "^0.1.7",
+    "sliced": "^1.0.1",
+    "tiny-lr-it": "^0.1.4",
+    "watchify": "^3.3.1",
+    "whatwg-fetch": "^0.9.0"
+  }
+}
